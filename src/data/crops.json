@@ -1,0 +1,10 @@
+{
+  "coffee": { "name": "Cà phê", "reference": "Ngưỡng minh họa, cần hiệu chỉnh theo giống và giai đoạn sinh trưởng." },
+  "rice": { "name": "Lúa", "reference": "Ngưỡng minh họa, không thay thế hướng dẫn canh tác địa phương." },
+  "maize": { "name": "Ngô", "reference": "Ngưỡng minh họa, không phải tiêu chuẩn khoa học chính thức." },
+  "pepper": { "name": "Hồ tiêu", "reference": "Ngưỡng minh họa, cần đối chiếu với điều kiện vườn." },
+  "vegetables": { "name": "Rau màu", "reference": "Ngưỡng minh họa, cần kiểm tra luống thực tế." },
+  "fruit": { "name": "Cây ăn quả", "reference": "Ngưỡng minh họa, thay đổi theo loài cây." },
+  "industrial": { "name": "Cây công nghiệp", "reference": "Ngưỡng minh họa, cần tham chiếu chuyên ngành." },
+  "other": { "name": "Cây trồng khác", "reference": "Chưa đủ dữ liệu đặc thù cho loại cây này." }
+}

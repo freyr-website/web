@@ -1,0 +1,2 @@
+import type { Location, WeatherData, WeatherQuery } from '../types/weather'
+export interface WeatherProvider { readonly name: WeatherData['provider']; getWeather(location: Location, query: WeatherQuery): Promise<WeatherData> }
